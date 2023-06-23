@@ -1,0 +1,19 @@
+.TabContainer {
+  margin: 10px;
+  list-style-type: none;
+}
+
+.btn {
+  border-radius: 5px;
+  width: 100px;
+  height: 30px;
+  border: 1px solid #db1c48;
+  cursor: pointer;
+  margin-right: 20px;
+  background-color: transparent;
+  color: #db1c48;
+}
+.active {
+  background-color: #db1c48;
+  color: #ffffff;
+}
